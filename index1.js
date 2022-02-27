@@ -1,0 +1,1 @@
+// JavaScript Function should be here
